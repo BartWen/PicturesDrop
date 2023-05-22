@@ -1,0 +1,8 @@
+Opis:
+Napisz proszę nową aplikację w windows forms.
+1) Aplikacja powinna mieć możliwość wybrania pliku z naszego dysku (zdjęcia) na przykład po kliknięciu na formatce głównej przycisku dodaj zdjęcie.
+2) Po wyborze pliku wyświetl na głównej formatce wybrane zdjęcie w kontrolce picturebox.
+3) Jeżeli przy zamknięciu aplikacji dalej jakieś zdjęcie jest wyświetla w picturebox, to zapisz sobie do niego ścieżkę i spróbuj przy ponownym uruchomieniu aplikacji wyświetlić to zdjęcie.
+4) Możesz też dodać nowy przycisk, za pomocą którego można usunąć zdjęcie z picturebox’a.
+5) Spróbuj zrobić tak, żeby przycisk usuń zdjęcie był widoczny tylko wtedy, gdy faktycznie jakieś zdjęcie jest wyświetlane w picturebox’ie.
+6) Mile widziane własne dodatkowe pomysły.
